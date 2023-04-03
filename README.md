@@ -1,2 +1,2 @@
 # Telegram_bot
-sends GIF, images, gives information about weather and exchange rate
+Sends GIF, images, gives information about weather and exchange rate
